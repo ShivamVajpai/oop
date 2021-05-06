@@ -1,4 +1,4 @@
-package main.java.org.shivam.oop.lesson2;
+package main.java.org.shivam.oop.lesson02Inheritance;
 
 public class Hero implements Action, Abilities {
 //public class Hero extends Entity {

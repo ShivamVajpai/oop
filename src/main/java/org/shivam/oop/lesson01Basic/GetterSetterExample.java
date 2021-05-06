@@ -1,4 +1,4 @@
-package main.java.org.shivam.oop.lesson1;
+package main.java.org.shivam.oop.lesson01Basic;
 
 public class GetterSetterExample {
 

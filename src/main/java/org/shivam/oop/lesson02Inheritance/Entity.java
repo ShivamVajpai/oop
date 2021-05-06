@@ -1,4 +1,4 @@
-package main.java.org.shivam.oop.lesson2;
+package main.java.org.shivam.oop.lesson02Inheritance;
 
 public abstract class Entity implements Action{
     protected int strength;
