@@ -1,6 +1,6 @@
 package main.java.org.shivam.oop.lesson2;
 
-public class Hero {
+public class Hero implements Action, Abilities {
 
     /**
      * PUBLIC PROPERTIES+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
