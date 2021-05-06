@@ -16,5 +16,22 @@ public class Project {
         v1.runs();
         v1.steals();
 
+        //INTANTIATE VIGILANTE
+        Vigilante vg1 = new Vigilante("What Man");
+        vg1.showAbilities();
+        vg1.fights();
+        vg1.runs();
+        vg1.steals();
+        vg1.assists(h1.name);
+        vg1.assists(v1.name);
+
+        //INTANTIATE SPEEDSTER
+        Speedster s1 = new Speedster("Speedy Guy");
+        s1.showAbilities();
+        s1.fights();
+        s1.runs();
+        s1.boostSpeed();
+        System.out.println("Speed of " + s1.name + " is " + s1.getSpeed());
+
     }
 }

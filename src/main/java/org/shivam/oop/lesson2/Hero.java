@@ -8,10 +8,14 @@ public class Hero {
     public String name;
 
     /**
+     * PROTECTED PROPERTIES++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+     */
+    protected int speed;
+
+    /**
      * PRIVATE PROPERTIES++++++++++++++++++++++++++++++++++++++++++++++++++++++++
      */
     private int strength;
-    private int speed;
     private int health;
 
     /**
