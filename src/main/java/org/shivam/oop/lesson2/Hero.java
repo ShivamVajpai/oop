@@ -53,11 +53,11 @@ public class Hero {
     /**
      * PUBLIC METHODS++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
      */
-    public void fight(){
+    public void fights(){
         System.out.println(this.name + " is fighting");
     }
 
-    public void run() {
+    public void runs() {
         System.out.println(this.name + " is running");
     }
 
